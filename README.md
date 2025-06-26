@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Classification Using Deep Learning (Flask App)
+# 🧠 Brain Tumor Classification Using Deep Learning 
 
 **Brain Tumor Classifier** is a deep learning-powered Flask application that detects and classifies brain tumors from MRI images. The project integrates convolutional neural networks (CNNs) with a clean web interface to assist in medical image diagnostics.
 
